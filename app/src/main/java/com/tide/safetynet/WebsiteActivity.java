@@ -89,7 +89,7 @@ public class WebsiteActivity extends Activity {
 	
 	private void initializeLogic() {
 		if (SketchwareUtil.isConnected(getApplicationContext())) {
-			
+			webview1.loadUrl("https://tide-safety-net.vercel.app/");
 		}
 		else {
 			intent.setClass(getApplicationContext(), InternetActivity.class);
