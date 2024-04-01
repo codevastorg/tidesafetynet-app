@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">kotlin webview</string>
+    <string name="app_name">TideSafety Net</string>
     <string name="kindly_check_your_internet">Kindly check your internet!</string>
     <string name="retry">Retry</string>
     <string name="no_connection">no connection</string>

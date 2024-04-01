@@ -1,4 +1,4 @@
-package com.blessingmwiti.kotlinwebview.ui.theme
+package com.codevastorg.tidesafetynet.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

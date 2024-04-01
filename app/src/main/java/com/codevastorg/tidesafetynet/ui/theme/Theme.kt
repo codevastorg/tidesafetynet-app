@@ -1,4 +1,4 @@
-package com.blessingmwiti.kotlinwebview.ui.theme
+package com.codevastorg.tidesafetynet.ui.theme
 
 import android.app.Activity
 import android.os.Build

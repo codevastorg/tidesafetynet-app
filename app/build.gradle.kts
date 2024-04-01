@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.blessingmwiti.kotlinwebview"
+    namespace = "com.codevastorg.tidesafetynet"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.blessingmwiti.kotlinwebview"
+        applicationId = "com.codevastorg.tidesafetynet"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

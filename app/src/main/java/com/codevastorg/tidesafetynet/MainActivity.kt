@@ -1,4 +1,4 @@
-package com.blessingmwiti.kotlinwebview
+package com.codevastorg.tidesafetynet
 
 import android.content.Intent
 import android.net.ConnectivityManager
